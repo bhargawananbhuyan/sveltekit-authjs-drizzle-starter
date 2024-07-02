@@ -1,12 +1,11 @@
 # SvelteKit starter with authentication using AuthJS, PostgreSQL database with Drizzle ORM and TailwindCSS
 
-Create a .env file and fill in the values.
+Create a `.env` file and fill in the values.
 
 ```
 AUTH_SECRET=
 AUTH_GITHUB_ID=
 AUTH_GITHUB_SECRET=
-
 DATABASE_URL=
 ```
 
